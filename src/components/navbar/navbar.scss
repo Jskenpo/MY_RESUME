@@ -1,6 +1,41 @@
+.navbar{
+    position: absolute;
+}
 
-#searchlogo{
-    width: 20px;
-    height: 20px;
-    cursor: pointer;
+#navBarFijo{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    font-family: Impact;
+}
+
+#Nombre{
+    position: relative;
+    left: 140%;
+}
+
+#Brand_image{
+    height: 50px;
+    width: 50px;
+    position : absolute;
+    left: 1.5%;
+    top: 1%;
+}
+
+#Brand_image:hover{
+    height: 55px;
+    width: 55px;
+}
+
+#LinkElement:hover{
+    text-shadow: 3px 3px rgba(50,50,70,0.5);
+}
+
+
+
+.navBg{
+    background-color: #383636;
+    color: #fff;
+    font-size: 1.2rem;
+    font-weight: 500;
 }

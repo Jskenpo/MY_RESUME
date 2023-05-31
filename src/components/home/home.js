@@ -1,11 +1,13 @@
 import React from "react";
+import './home.scss';
+
+import MASTER from '../nombre_animation/nombre.js'
 
 
 function Home() {
     return (
-        <div className="home">
-            <h1>Home</h1>
-            <p>This is the home page.</p>
+        <div className="page">
+            <MASTER />
         </div>
     );
 }
