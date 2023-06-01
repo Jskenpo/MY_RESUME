@@ -87,6 +87,13 @@ function Conocimientos() {
                 </div>
 
             </div>
+            <div className="rayita">
+            </div>
+            <div id='Titulo'>
+                <h1>
+                    Progreso en lenguajes de programación
+                </h1>
+            </div>
         </div>
     );
 }
