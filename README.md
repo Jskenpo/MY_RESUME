@@ -181,3 +181,6 @@ https://proyecto3-stw.web.app
           Es la compilación de entorno de ejecución webpack en donde se aloja el proyecto completo en solo dos archivos, los cuales son index.html y main.bundle.js. Adicionalmente se encuentra una carpeta 'imágenes' en donde se almacenan todos los archivos multimedia
       </li>
   </ul>
+
+## Documentación
+<a href='./DOCUMENTACION P3-STW'>Documentation file</a>
