@@ -4,9 +4,13 @@ import './nombre.scss';
 function Nombre() {
 
     return (
-        <div className="content">
-            <h1 class='text_shadows'>MASTER</h1>
+        <div id='nombre'>
+            <div className="content">
+                <h1 class='text_shadows'>MASTER</h1>
+
+            </div>
         </div>
+
     );
 
 }

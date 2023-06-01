@@ -19,16 +19,21 @@
 }
 
 
-
 .content {
-    display: flex;
-    align-content: center;
-    justify-content: center;
     text-align: center;
-    border: 3px solid #c50f0f;
-    border-image: linear-gradient(0deg, #FFFFFF, rgb(255, 0, 0)) 10;
-    border-radius: 10px;
+    border: 3px solid transparent;
+    border-image: linear-gradient(0deg, #51afde, #eb478f) 10;
+    border-radius: 50px;
     padding: 20px;
+    width: 100%;
+    margin-left: 10%;
+
+    @media (max-width: 500px) {
+        width: 70%;
+        margin-left: 16%;
+    }
+
+    
 }
 
 .text_shadows {

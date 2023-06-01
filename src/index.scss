@@ -6,4 +6,11 @@ body{
 .page{
     position: absolute;
     margin-top : 7%;
+
+    @media  (max-width: 500px) {
+        margin-top : 17%;
+    }
+        
+    
+
 }
