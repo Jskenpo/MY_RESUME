@@ -3,6 +3,7 @@ import './home.scss';
 
 import MASTER from '../nombre_animation/nombre.js'
 import SobreMi from '../sobre_mi/sobre_mi.js'
+import Gustos from '../Gustos/gustos.js'
 
 
 function Home() {
@@ -10,6 +11,7 @@ function Home() {
         <div className="page">
             <MASTER />
             <SobreMi />
+            <Gustos />
         </div>
     );
 }

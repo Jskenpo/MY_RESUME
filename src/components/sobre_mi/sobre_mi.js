@@ -10,7 +10,7 @@ function SobreMi() {
         <div id='sobre_mi'>
             <div className="rayita">
             </div>
-            <div id='TituloYo' >
+            <div id='Titulo' >
                 <h1>¿Quién soy?</h1>
             </div>
             <div id = 'columnas' class="container">
