@@ -1,11 +1,15 @@
 import React from "react";
+import AboutHeader from "../About_name/about_name";
+import Conocimientos from "../conocimientos/conocimientos";
+
+import './about.scss';
 
 
 function About() {
     return (
         <div className="page">
-            <h1>about</h1>
-            <p>This is the about page.</p>
+            <AboutHeader />
+            <Conocimientos />
         </div>
     );
 }
