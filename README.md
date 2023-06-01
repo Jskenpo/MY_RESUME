@@ -183,4 +183,4 @@ https://proyecto3-stw.web.app
   </ul>
 
 ## Documentación
-<a href='./DOCUMENTACION P3-STW'>Documentation file</a>
+<a href='./DOCUMENTACION P3-STW.pdf'>Documentation file</a>
