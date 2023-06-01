@@ -2,6 +2,8 @@ import React from "react";
 import AboutHeader from "../About_name/about_name";
 import Conocimientos from "../conocimientos/conocimientos";
 import Progress from "../Progress/progress";
+import Grid from "../Grid/grid";
+import RayitaP from "../rayitaProyects/rayitaP";
 
 import './about.scss';
 
@@ -41,6 +43,8 @@ function About() {
                 lenguaje="Express"
                 cantidad="45"
             />
+            <RayitaP />
+            <Grid />
         </div>
     );
 }

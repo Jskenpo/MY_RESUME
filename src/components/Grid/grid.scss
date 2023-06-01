@@ -1,0 +1,11 @@
+.grid {
+    position: relative;
+    width: 128%;
+    margin-left: -10%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+    padding: 0 250px;
+    overflow: hidden;
+  }
+  
